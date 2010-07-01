@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_respond_with :${1:success}</string>
+	<string>should respond_with :${1:success}</string>
 	<key>name</key>
-	<string>should_respond_with</string>
+	<string>should respond_with</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>

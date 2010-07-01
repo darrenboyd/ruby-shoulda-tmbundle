@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_render_without_layout</string>
+	<string>should_not render_with_layout</string>
 	<key>name</key>
-	<string>should_render_without_layout</string>
+	<string>should_not render_with_layout</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
