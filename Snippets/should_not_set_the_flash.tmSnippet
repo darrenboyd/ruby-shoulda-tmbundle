@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_not_set_the_flash</string>
+	<string>should_not set_the_flash</string>
 	<key>name</key>
-	<string>should_not_set_the_flash</string>
+	<string>should_not set_the_flash</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
