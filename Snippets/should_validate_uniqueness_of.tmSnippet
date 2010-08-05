@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_validate_uniqueness_of :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
+	<string>should validate_uniqueness_of :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
 	<key>name</key>
 	<string>should_validate_uniqueness_of</string>
 	<key>scope</key>
