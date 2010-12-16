@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_render_template :${1:template}</string>
+	<string>should render_template :${1:template}</string>
 	<key>name</key>
-	<string>should_render_template</string>
+	<string>should render_template</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>

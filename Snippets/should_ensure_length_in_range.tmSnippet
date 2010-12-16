@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_ensure_length_in_range :${1:attribute}, (${2:range})</string>
+	<string>should ensure_length_of(:${1:attribute}).is_at_least(${2:min}).is_at_most(${3:max})</string>
 	<key>name</key>
 	<string>should_ensure_length_in_range</string>
 	<key>scope</key>
