@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_change "${1:${2:Model}.${3:count}}"${4:, :by =&gt; ${5:value}}</string>
+	<string>should_change(${1:"${2:something}", }:by =&gt; ${3:value}) { ${4:${5:Model}.${6:count}} }</string>
 	<key>name</key>
 	<string>should_change by</string>
 	<key>scope</key>
